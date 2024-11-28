@@ -1,0 +1,7 @@
+[
+    { "id": "valuationFeePaid", "description": "Valuation Fee Paid" },
+    { "id": "ukResident", "description": "UK Resident" },
+    { "id": "riskRating", "description": "Risk Rating Medium" },
+    { "id": "ltvBelow60", "description": "LTV Below 60%" }
+]
+  
